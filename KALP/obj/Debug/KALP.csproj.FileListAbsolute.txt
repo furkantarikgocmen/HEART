@@ -1,0 +1,7 @@
+C:\Users\FTG\source\repos\KALP\KALP\bin\Debug\KALP.exe.config
+C:\Users\FTG\source\repos\KALP\KALP\bin\Debug\KALP.exe
+C:\Users\FTG\source\repos\KALP\KALP\bin\Debug\KALP.pdb
+C:\Users\FTG\source\repos\KALP\KALP\obj\Debug\KALP.csprojAssemblyReference.cache
+C:\Users\FTG\source\repos\KALP\KALP\obj\Debug\KALP.csproj.CoreCompileInputs.cache
+C:\Users\FTG\source\repos\KALP\KALP\obj\Debug\KALP.exe
+C:\Users\FTG\source\repos\KALP\KALP\obj\Debug\KALP.pdb
